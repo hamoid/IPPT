@@ -9,6 +9,8 @@ plugins {
     // Kotlin support
     id("org.jetbrains.kotlin.jvm") version "1.8.0"
     // Gradle IntelliJ Plugin
+    // 1.12.0 -> empty dialog (Label missing)
+    // 1.13.0 -> works as expected
     id("org.jetbrains.intellij") version "1.12.0"
     // Gradle Changelog Plugin
     id("org.jetbrains.changelog") version "2.0.0"

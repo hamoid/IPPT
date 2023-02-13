@@ -1,7 +1,7 @@
 <!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
 <idea-plugin>
     <id>com.github.hamoid.ippt</id>
-    <name>IntelliJ Platform Plugin IPPT</name>
+    <name>IPPT</name>
     <vendor>hamoid</vendor>
 
     <depends>com.intellij.modules.platform</depends>
