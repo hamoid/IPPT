@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.hamoid.ippt.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.hamoid.ippt.MyBundle
 
 class MyProjectService(project: Project) {
 
